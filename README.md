@@ -1,5 +1,5 @@
-# What's for Dinner?
-## Developing a recipe recommendation engine
+# :plate_with_cutlery: What's for Dinner? :plate_with_cutlery:
+## :taco::sandwich::green_salad:  Developing a recipe recommendation engine :spaghetti::curry::ramen:
 On most days, my biggest problem at the end of my work day is deciding what to have for dinner. As a person who enjoys cooking and wants to cut down on takeout and delivery spending, I often have a hard time deciding what to cook, which is why I want to use my new data skills to develop a recommendation engine for cooking recipes.
 
 ### What is your main goal?
