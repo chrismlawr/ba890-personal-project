@@ -16,5 +16,5 @@ Machine learning and Recommendation Engines:
 * Content-Based recommendations
 * Collaborative Filtering (item-based and user-based)
 
-Data analysis and visualization in Tableau
+Data analysis and visualization in Tableau (https://public.tableau.com/app/profile/christian.lawrence/viz/EDA_16294551080930/EDA)
 
